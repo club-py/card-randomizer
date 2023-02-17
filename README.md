@@ -12,6 +12,6 @@ please consult that area for specific instructions to each one
 - python3 (https://www.python.org/downloads/)
 - matplotlib (pip install matplotlib)
     
-you can only use the pip command after python has been installed and added to path (check this option in the installed)
+you can only use the pip command after python has been installed and added to path (check this option in the installer)
     
 ### i've left extensive comments in main.py as to what things do, but feel free to email me for further questions.
